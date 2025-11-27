@@ -27,6 +27,16 @@
 Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
 
+### Выполнение:
+
+Применение конфига и статус интерфейса до аварии
+<img width="817" height="499" alt="image" src="https://github.com/user-attachments/assets/ab31c350-14f0-49ca-ab5c-6e8dbfc2d0b7" />
+<img width="309" height="147" alt="image" src="https://github.com/user-attachments/assets/00fb0055-3e6d-479c-a895-ab8ab3911eab" />
+Далее был остановлен nginx на server1
+<img width="799" height="459" alt="image" src="https://github.com/user-attachments/assets/5b539f64-ed11-4f04-80bf-3dda26f98bd8" />
+<img width="364" height="187" alt="image" src="https://github.com/user-attachments/assets/a7902561-545b-461f-9bb6-0f2599667e95" />
+
+
 
 
 ## Задание 3*
